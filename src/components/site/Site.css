@@ -1,0 +1,7 @@
+.Site {
+    flex: 1;
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+    min-width: 500px;
+}

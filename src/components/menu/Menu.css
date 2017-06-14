@@ -1,0 +1,7 @@
+.Menu h1 {
+    font-size: 1.2em;
+    font-weight: normal;
+    color: gray;
+    float: right;
+    padding: 15px 25px;
+}
