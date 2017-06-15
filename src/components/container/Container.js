@@ -10,10 +10,12 @@ const Container = () => {
             <Menu />
             <Search />
             <div className="SiteList">
-                <Site title="cnn"/>
-                <Site title="foxnews"/>
-                {/*<Site title="bloomberg"/>
-                <Site title="the-new-york-times"/>*/}
+                <Site title="cnn" id="1"/>
+                <Site title="foxnews" id="2"/>
+                <Site title="huffingtonpost" id="3"/>
+                <Site title="nbcnews" id="4"/>
+                <Site title="bloomberg" id="5"/>
+                <Site title="nytimes" id="6"/>
             </div>
         </div>
     );

@@ -1,9 +1,9 @@
 {
-  "name": "react-demo",
+  "name": "newsbias",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.16.2",
+    "log": "^1.4.0",
     "material-ui": "^0.18.2",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",

@@ -5,3 +5,10 @@
     margin: 20px;
     min-width: 500px;
 }
+
+.Visible{
+    display: block;
+}
+.NotVisible{
+    display: None;
+}

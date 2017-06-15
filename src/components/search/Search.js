@@ -18,7 +18,6 @@ class Search extends Component {
         return (
             <div className="Search">
                 <TextField
-                    floatingLabelText="search"
                     value = { this.state.name }
                     onChange = { this.handleUpdate }
                     onKeyPress = { this.checkSubmit } />

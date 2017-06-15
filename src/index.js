@@ -12,7 +12,7 @@ import injectTapEventPlugin from 'react-tap-event-plugin';
 import registerServiceWorker from './registerServiceWorker';
 
 var defaultState = {
-    name: 'Donald Trump'
+    name: ''
 }
 let store = createStore(searchApp, defaultState);
 
